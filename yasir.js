@@ -1,3 +1,1 @@
-console.log {
-    string "Syntaxed"
-}
+console.log("String: syntaxed");
